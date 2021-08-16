@@ -1,0 +1,118 @@
+.form-submit .form-style {
+  border-top: none;
+  border-left: none;
+  outline: none;
+  border-right: none;
+  text-decoration: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.form-submit h3 {
+  font-size: 16px;
+}
+
+.form-submit .form-2 {
+  margin-top: 90px;
+}
+.form-submit .form-style:focus {
+  border-bottom: 1px solid #ffff00;
+}
+
+.form-submit .form-select {
+  box-shadow: none;
+  outline: 0;
+}
+
+.form-submit .form-select:focus {
+  border: 1px solid #ffff00;
+}
+.form-submit .btn-submit {
+  background-color: #ffff00;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+/* ================================course-search================= */
+
+.form-search .btn-search {
+  background: yellow;
+  color: white;
+  margin-bottom: 5px;
+  /* margin: auto; */
+}
+
+.form-search .form-group {
+  /* margin: auto; */
+}
+
+.search-advance {
+  margin: 20px 0px;
+  border: 1px solid #ccc;
+}
+
+.search-advance .accordion {
+  border: 0;
+}
+.search-advance .accordion > .card .card-header {
+  background-color: #fff;
+  border: 0;
+}
+.search-advance .col-form-label {
+  padding: 0;
+}
+.search-advance .form-check {
+  padding: 0;
+}
+
+.search-advance .check {
+  margin-top: 20px;
+}
+.table-form {
+  padding: 20px 0px;
+  /* border: 1px solid #ccc; */
+  margin-bottom: 15px;
+}
+.table-form .table {
+  margin-top: 20px;
+}
+
+.university {
+  padding: 30px 0px;
+}
+
+.university .left_section {
+  border: 1px solid #f3f3f3;
+  box-shadow: 0 0 15px 0 rgb(0 0 0 / 8%);
+}
+.university .left_section .image img {
+  width: 100%;
+}
+
+/* @media (min-width: 992px) {
+  .bootstrap-wrapper .col-md-push-3 {
+    left: 25%;
+    position: relative;
+  }
+  .bootstrap-wrapper .col-md-9 {
+    width: 75%;
+  }
+} */
+
+.university .right-sec {
+  border: 1px solid #f3f3f3;
+  box-shadow: 0 0 15px 0 rgb(0 0 0 / 8%);
+  margin-top: 20px;
+}
+
+.university .right-sec .about-uni {
+  padding: 10px 15px;
+}
+
+.university .right-sec .about-uni h4 {
+  margin-top: 4px;
+}
+
+.university .uni-form-3 .form-group {
+  margin: 0;
+}
